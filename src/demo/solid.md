@@ -3,9 +3,6 @@
 title: 我不允许还有人不知道SOLID原则
 # 这是页面的图标
 icon: fab fa-markdown
-order: 2
-category:
-  - 使用指南
 tag:
   - Markdown
 # 这是侧边栏的顺序
