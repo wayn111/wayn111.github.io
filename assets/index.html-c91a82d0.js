@@ -1,1 +1,0 @@
-import{_ as o}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as s,a as e}from"./app-03434e01.js";const n={},_=e("p",null,"asdasd",-1),c=e("p",null,"sadfsdaf",-1),l=e("blockquote",null,[e("p",null,"df")],-1),a=[_,c,l];function d(r,i){return t(),s("div",null,a)}const m=o(n,[["render",d],["__file","index.html.vue"]]);export{m as default};
