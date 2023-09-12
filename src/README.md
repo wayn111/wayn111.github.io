@@ -268,8 +268,3 @@ highlights:
 copyright: false
 footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 ---
-asdasd
-
-sadfsdaf
-
->df
